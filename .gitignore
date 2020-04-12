@@ -1,0 +1,17 @@
+.hydra
+.DS_Store
+
+# sbt specific
+.cache
+.history
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# IDE
+.idea
+.metals
+.bloop
+project/metals.sbt
